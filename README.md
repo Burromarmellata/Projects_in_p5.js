@@ -8,4 +8,4 @@ To download p5.js with a first example of html file visit https://p5js.org/downl
 
 All content is written by me, exeptions when it is clearly stated. (and the html files which are all similar to each other and have been based on the instructions that can be found on the get started page of p5 https://p5js.org/get-started/)
 
-As any other person using p5.js I need to thank Daniel Shiffman for the tutorials and the gerat inspiration from his challenges.
+As any other person using p5.js I need to thank Daniel Shiffman for the tutorials and the great inspiration from his challenges.
